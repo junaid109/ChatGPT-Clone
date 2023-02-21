@@ -1,4 +1,4 @@
-# ChataGPT App
+# ChatGPT App
 
 ![image](https://user-images.githubusercontent.com/8495748/220408445-7a4fece5-304c-4d2e-9120-dc7ce4859044.png)
 
